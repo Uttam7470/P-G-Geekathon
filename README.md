@@ -1,7 +1,11 @@
 # Procter & Gamble 🔗
 
 ## Hosted link to our website 
-To explore our project, visit here []
+To explore our project, visit here [https://uttam7470.github.io/P-G-Geekathon/]
+
+## Github Repository Links :-
+1. Sheetal :- https://github.com/sheetalgithub30/P-G.git
+2. Uttam :- https://github.com/Uttam7470/P-G-Geekathon.git
 
 ### <span style="color:#29c4f6"><u>TABLE OF CONTENT</u>
 
@@ -29,11 +33,7 @@ Let's embark on this journey to recreate the <b>Procter & Gamble</b> website tog
 This project was assigned by <a href="#"><u>Geekster</u></a> as a Major Project for a team of 6 members 🎉 regarding Front-end web development.
     <ul type=none>
     <li>💡Sheetal (CAPTAIN)
-    <li>💡Aman
-    <li>💡Syed Mohammed Abbas
     <li>💡Uttam
-    <li>💡Anjali
-    <li>💡Harshit
    </ul>
 
 🔖 It was an exciting opportunity for all of us to apply our skills and collaborate with each other to create a polished website.🌏 
