@@ -4,13 +4,15 @@
   box-sizing: border-box;
   font-family: Montserrat;
 }
+html{
+  scroll-behavior: smooth;
 
+}
 
 body,
 html {
   height: 100%; 
    margin: 0; 
-   scroll-behavior: smooth;
 }
 .Hero {
   background-image: url(assests/1.11.23_Ingredients_Page_Key_Image_Option_4__2_.webp);
