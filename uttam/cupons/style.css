@@ -5,10 +5,12 @@
   font-family: Montserrat;
 }
 
+
 body,
 html {
   height: 100%; 
    margin: 0; 
+   scroll-behavior: smooth;
 }
 .Hero {
   background-image: url(assests/1.11.23_Ingredients_Page_Key_Image_Option_4__2_.webp);
@@ -96,36 +98,43 @@ html {
   padding-top: 20px;
   line-height: 30px;
 }
+.description p a{
+  color: #003da7;
+  font-weight: 600;
+  text-decoration: underline;
+}
 span {
   color: skyblue;
 }
-button {
+.btn {
   /* background-color: #000; */
   border-radius: 50px;
-  padding: 0px 10px;
+  padding: 0px 30px;
   height: 45px;
   font-size: 15px;
   font-weight: 600;
   margin-top: 20px;
-  border-color: red;
+  border : 2px solid #003da7;
 }
 a {
   color: #003da7;
 }
-button a {
+.btn a {
   text-decoration: none;
+  color: #003da7;
 }
-button i {
+.btn i {
+  color: #003da7;
   padding: 5px;
 }
-button:hover {
-  background-color: #4d8cd9;
+.btn:hover {
+  background-color: #003da5;
 }
-button a:hover {
+.btn a:hover {
+  color:white;
+}
+.btn  i:hover {
   color: white;
-}
-button a i:hover {
-  color: black;
 }
 .right {
   margin-top: 100px;
@@ -273,6 +282,7 @@ ul li {
 }
 .fragrance .right-4 button{
   width: 200px;
+  border: 2px solid #003da5;
 }
 .fragrance .right-4 button a{
   font-weight: 600;
