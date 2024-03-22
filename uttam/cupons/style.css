@@ -8,6 +8,16 @@ html{
   scroll-behavior: smooth;
 
 }
+.Hero::before {
+  content: " ";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to right,rgba(19, 4, 4, 0.642), #121896c9,rgba(235, 235, 236, 0.386));
+  opacity: 0.9;
+}
 
 body,
 html {
@@ -17,6 +27,7 @@ html {
 .Hero {
   background-image: url(assests/1.11.23_Ingredients_Page_Key_Image_Option_4__2_.webp);
   height: 100%;
+  /* opacity: 0.9; */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -33,8 +44,8 @@ html {
 
 .hero-icon img {
   position: absolute;
-  height: 100px;
-  top: 110px;
+  height: 60px;
+  top: 180px;
   left: 40px;
 }
 .hero-content {
@@ -45,7 +56,7 @@ html {
 
 .hero-content h1 {
   font-size: 100px;
- 
+ font-weight: 700;
   color: white;
 }
 .hero-content p {
