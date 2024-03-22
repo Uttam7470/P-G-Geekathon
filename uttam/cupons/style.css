@@ -24,6 +24,13 @@ html {
   height: 100%; 
    margin: 0; 
 }
+/* navbar {
+  height: 80px;
+}
+navbar ul li{
+  color: #003da7;
+  font-weight: 500;
+} */
 .Hero {
   background-image: url(assests/1.11.23_Ingredients_Page_Key_Image_Option_4__2_.webp);
   height: 100%;
@@ -179,11 +186,11 @@ a {
   color: black;
   line-height:30px; 
 }
-ul {
+.ul-2  {
   margin-top: 40px;
 }
 
-ul li {
+.ul-2 li {
   font-weight: 400;
   font-size: 18px;
   color: black;
